@@ -1,0 +1,14 @@
+.img
+{
+    width: 50%;
+   }
+.det
+{
+    width: 50%;
+}
+.live
+{
+    display: flex;
+  /* justify-content: center;  */
+  width: 100%;
+}
